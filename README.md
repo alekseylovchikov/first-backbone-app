@@ -1,5 +1,7 @@
 ## First Backbone Application
 
+### How to run
+
 `git clone https://github.com/alekseylovchikov/first-backbone-app.git`
 
 `cd first-backbone-app`
@@ -12,5 +14,5 @@
 #### For HTTP Server
 `npm install -g http-server`
 
-#### and run
+#### Then Run http-server
 `http-server`
