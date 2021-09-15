@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "editMode": false,
+      "id": 1,
+      "name": "ирина",
+      "phone": "8 999 239-31-11"
+    },
+    {
+      "editMode": false,
+      "name": "олег",
+      "phone": "8 999 239-31-11",
+      "id": 2
+    },
+    {
+      "editMode": false,
+      "name": "сергей",
+      "phone": "8 999 239-31-11",
+      "id": 3
+    },
+    {
+      "editMode": false,
+      "name": "иван",
+      "phone": "89991231212",
+      "id": 4
+    },
+    {
+      "editMode": false,
+      "name": "оля",
+      "phone": "89991231212",
+      "id": 5
+    },
+    {
+      "editMode": false,
+      "name": "алексей",
+      "phone": "7 999 223 92 97",
+      "id": 6
+    }
+  ]
+}
