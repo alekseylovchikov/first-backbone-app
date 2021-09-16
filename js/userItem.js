@@ -1,6 +1,8 @@
 const UserItem = Backbone.Model.extend({
   defaults: {
     editMode: false,
+    name: '',
+    phone: '',
   },
 
   urlRoot: 'http://localhost:3000/users',
@@ -11,7 +13,7 @@ const UserItem = Backbone.Model.extend({
       return 'Name is required';
     }
     if (!attrs.phone || !phoneRegex.test(attrs.phone)) {
-      return 'Phone is required and must be a valid';
+      return 'Phone is required and must be valid';
     }
   },
 
